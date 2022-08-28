@@ -3,7 +3,7 @@
 </div>
 
 <div style="text-align: center;">
-<a href="https://github.com/sskmy1024y/use-suspense-hook/releases/latest"><img src="https://img.shields.io/npm/v/:use-suspense-hook" alt="Released package version"></a>
+<a href="https://github.com/sskmy1024y/use-suspense-hook/releases/latest"><img src="https://img.shields.io/npm/v/use-suspense-hook" alt="Released package version"></a>
 <a href="https://github.com/sskmy1024y/use-suspense-hook/blob/main/license"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT"></a>
 <a href="https://github.com/sskmy1024y/use-suspense-hook/actions/workflows/test.yml"><img src="https://github.com/sskmy1024y/use-suspense-hook/actions/workflows/test.yml/badge.svg" alt="CI status" /></a> 
 </div>
