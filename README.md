@@ -1,11 +1,11 @@
 <div style="text-align: center;">
-  <h1>use-suspense</h1>
+  <h1>use-suspense-hook</h1>
 </div>
 
 <div style="text-align: center;">
-<a href="https://github.com/sskmy1024y/use-suspense/releases/latest"><img src="https://img.shields.io/npm/v/:use-suspense" alt="Released package version"></a>
-<a href="https://github.com/sskmy1024y/use-suspense/blob/main/license"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT"></a>
-<a href="https://github.com/sskmy1024y/use-suspense/actions/workflows/test.yml"><img src="https://github.com/sskmy1024y/use-suspense/actions/workflows/test.yml/badge.svg" alt="CI status" /></a> 
+<a href="https://github.com/sskmy1024y/use-suspense-hook/releases/latest"><img src="https://img.shields.io/npm/v/:use-suspense-hook" alt="Released package version"></a>
+<a href="https://github.com/sskmy1024y/use-suspense-hook/blob/main/license"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT"></a>
+<a href="https://github.com/sskmy1024y/use-suspense-hook/actions/workflows/test.yml"><img src="https://github.com/sskmy1024y/use-suspense-hook/actions/workflows/test.yml/badge.svg" alt="CI status" /></a> 
 </div>
 
 <br>
@@ -17,12 +17,12 @@
 ## 📦 Install
 
 ```shell
-$ npm install use-suspense
+$ npm install use-suspense-hook
 ```
 
 
 ```shell
-$ yarn add use-suspense
+$ yarn add use-suspense-hook
 ```
 
 ## 📔 Usage
@@ -54,7 +54,7 @@ function MyComponent() {
 
 ## 🤝 Contributing
 
-1. Fork it ( <https://github.com/sskmy1024y/use-suspense/fork> )
+1. Fork it ( <https://github.com/sskmy1024y/use-suspense-hook/fork> )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
