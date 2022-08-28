@@ -65,5 +65,10 @@
     "hooks",
     "typescript",
     "type"
-  ]
+  ],
+  "bugs": "https://github.com/sskmy1024y/use-suspense-hook/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sskmy1024y/use-suspense-hook.git"
+  }
 }
