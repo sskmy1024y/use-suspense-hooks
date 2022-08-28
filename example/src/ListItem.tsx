@@ -1,6 +1,6 @@
 // package could be installed by `yarn artifact` in project root
 import React from 'react'
-import {useSuspenseState} from "use-suspense-hook";
+import {useSuspenseState} from "use-suspense-hooks";
 
 interface Props {
   index: number

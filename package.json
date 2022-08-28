@@ -1,6 +1,6 @@
 {
-  "name": "use-suspense-hook",
-  "version": "1.0.0",
+  "name": "use-suspense-hooks",
+  "version": "0.1.0",
   "description": "Hooks that allow synchronous execution of Async functions via React.Suspension",
   "author": "sho",
   "main": "lib/cjs/index.js",
@@ -24,7 +24,7 @@
     "lint:prettier": "prettier '**/*.{json,yml}' --check",
     "test": "run-p 'typecheck:*' 'lint:*' 'test:*'",
     "test:jest": "jest -c config/jest.config.ts",
-    "artifact": "yarn pack --filename artifacts/use-suspense-hook-$npm_package_version.tgz",
+    "artifact": "yarn pack --filename artifacts/use-suspense-hooks-$npm_package_version.tgz",
     "clean": "rimraf lib 'artifacts/*.tgz'",
     "prepack": "run-s clean build"
   },
@@ -66,9 +66,9 @@
     "typescript",
     "type"
   ],
-  "bugs": "https://github.com/sskmy1024y/use-suspense-hook/issues",
+  "bugs": "https://github.com/sskmy1024y/use-suspense-hooks/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sskmy1024y/use-suspense-hook.git"
+    "url": "https://github.com/sskmy1024y/use-suspense-hooks.git"
   }
 }
