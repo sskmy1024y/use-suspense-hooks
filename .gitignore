@@ -1,0 +1,10 @@
+.idea*
+.DS_Store
+
+artifacts/*
+!artifacts/.gitkeep
+
+node_modules*
+lib*
+
+*.log
